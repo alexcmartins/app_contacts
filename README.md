@@ -6,4 +6,5 @@ Esse app está sendo desenvolvida para você que de alguma forma possui alguma d
 
 **Versão 1.0** desenvolvida em **13/03/2021**
 
-- Desenvolvimento do backend em Node.JS, com rota e acesso ao banco de dados que foi escolhido o MySQL.
+- Desenvolvimento do backend em Node.JS, rota com Express e modelagem da tabela e configuração de acesso ao banco de dados.
+- Banco de dados utilizado é o MySQL.

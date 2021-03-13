@@ -33,4 +33,4 @@ Contacts.sync({force: false}).then(() =>{
     console.log('Tabela Criada com Sucesso!')
 });
 
-module.exports = Coin;
+module.exports = Contacts;
